@@ -1,0 +1,10 @@
+export './home/controller.dart';
+export './splash/controller.dart';
+export './setup/controller.dart';
+export './main/controller.dart';
+export './lesson/controller.dart';
+export './exercise/controller.dart';
+export './games/controller.dart';
+export './chats/controller.dart';
+export './streak/controller.dart';
+export './speaking/controller.dart';
